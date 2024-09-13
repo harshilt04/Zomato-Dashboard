@@ -1,5 +1,8 @@
 # Zomato-Dashboard
 
+Here you can have a look on the dashboard by clicking link below
+https://app.powerbi.com/view?r=eyJrIjoiZGY2NjczOWUtYjExYi00YmNjLTg2MDctZmE0MzZjYTMwZjQ0IiwidCI6ImM0MTlhMWI2LTEyMmEtNGM5MS1hYTE1LWI5NTc3ODRiZDNkNCIsImMiOjN9
+
 So, I have created this report to get deep dive analysis on sales of India's most famous food ordering application ZOMATO
 
 I have took the data from kaggle and then load it into PowerBi
